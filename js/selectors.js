@@ -1,8 +1,8 @@
 // declare your functions here...
 $(document).ready(function () {
-  let f = function paragraphSelector() {
+  let f =  paragraphSelector() {
     $('p')
-    
+
   }
-  
+
 })
